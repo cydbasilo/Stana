@@ -633,7 +633,7 @@
    Header Start 
  --*/
  header {
-   background: transparent;
+   background-color: #000;
  }
  header .navbar {
    margin-bottom: 0px;
