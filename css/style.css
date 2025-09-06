@@ -2725,7 +2725,7 @@ body {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: rgb(4, 0, 255);
+  background-color: #af641ee7;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
